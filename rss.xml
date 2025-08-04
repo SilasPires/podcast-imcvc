@@ -2,14 +2,14 @@
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Devocional Diário - Metodista Conquista</title>
-    <link>https://github.com/SilasPires/podcast-imcvc/edit/main/rss.xml</link>
-    <description>Teste de automação Spotify</description>
+    <title>Meu Podcast de Teste</title>
+    <link>https://seunome.github.io/meu-podcast/rss.xml</link>
+    <description>Podcast automatizado usando GitHub Pages e n8n.</description>
     <language>pt-BR</language>
-    <itunes:author>IMCVC</itunes:author>
+    <itunes:author>Seu Nome</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://i.imgur.com/HzyBCRL.png" />
-    <itunes:category text="Christianism"/>
+    <itunes:image href="https://via.placeholder.com/300x300.png?text=Capa" />
+    <itunes:category text="Technology"/>
     
     <item>
       <title>Episódio 1 - Exemplo</title>
