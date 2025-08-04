@@ -17,16 +17,18 @@
     <itunes:image href="https://i.imgur.com/HzyBCRL.png" />
     <itunes:category text="Christianity"/>
 
-    <!-- Exemplo de episódio (comente ou descomente conforme necessário)
-    <item>
-      <title>Episódio 1 - Exemplo</title>
-      <description>Este é um episódio de teste.</description>
-      <enclosure url="https://exemplo.com/audio.mp3" type="audio/mpeg" length="12345678" />
-      <guid>https://exemplo.com/audio.mp3</guid>
-      <pubDate>Mon, 04 Aug 2025 12:00:00 GMT</pubDate>
-      <itunes:duration>12:34</itunes:duration>
-    </item>
-    -->
+<item>
+  <title>Graça Incondicional (Ef 2:8-9)</title>
+  <description>Reflexão devocional sobre Efésios 2:8-9 – A graça que nos alcança sem méritos.</description>
+  <enclosure 
+    url="https://storage.googleapis.com/store-screenapp-production/vid/68911562515e687bddac053e/361d44a9-1ea5-4d76-842e-0540844f4d76.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Credential=GOOG1EINEQV5X2QGY62PSZMBMUR7IGGVLKNDB6ABP5GL6O6FKO76DWA2IE3SB%2F20250804%2Fauto%2Fs3%2Faws4_request&amp;X-Amz-Date=20250804T201742Z&amp;X-Amz-Expires=604800&amp;X-Amz-Signature=9147d0f41897a19d5008b44c9b94917fc62e3d6844a24eaf9b818d9d29bf32b1&amp;X-Amz-SignedHeaders=host&amp;response-content-type=attachment%3B%20filename%3D%22361d44a9-1ea5-4d76-842e-0540844f4d76.mp3%22%3B%20filename%2A%3D%20UTF-8%27%27GRAA%2520INCONDICIONAL.%2520Ef%25202_8_9%2520j1UfnHDb41A.mp3%3B&amp;x-amz-checksum-mode=ENABLED&amp;x-id=GetObject" 
+    type="audio/mpeg" 
+    length="4750000" />
+  <guid>graça-incondicional-ef-2-8-9</guid>
+  <pubDate>Mon, 04 Aug 2025 21:00:00 GMT</pubDate>
+  <itunes:duration>03:56</itunes:duration>
+</item>
+
 
   </channel>
 </rss>
