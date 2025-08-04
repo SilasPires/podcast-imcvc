@@ -11,14 +11,14 @@
     <itunes:image href="https://via.placeholder.com/300x300.png?text=Capa" />
     <itunes:category text="Technology"/>
     
-    <item>
+<!--     <item>
       <title>Episódio 1 - Exemplo</title>
       <description>Este é um episódio de teste.</description>
       <enclosure url="https://exemplo.com/audio.mp3" type="audio/mpeg" length="12345678" />
       <guid>https://exemplo.com/audio.mp3</guid>
       <pubDate>Mon, 04 Aug 2025 12:00:00 GMT</pubDate>
       <itunes:duration>12:34</itunes:duration>
-    </item>
+    </item> -->
 
   </channel>
 </rss>
