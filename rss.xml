@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Meu Podcast de Teste</title>
+    <link>https://seunome.github.io/meu-podcast/rss.xml</link>
+    <description>Podcast automatizado usando GitHub Pages e n8n.</description>
+    <language>pt-BR</language>
+    <itunes:author>Seu Nome</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://via.placeholder.com/300x300.png?text=Capa" />
+    <itunes:category text="Technology"/>
+    
+    <item>
+      <title>Episódio 1 - Exemplo</title>
+      <description>Este é um episódio de teste.</description>
+      <enclosure url="https://exemplo.com/audio.mp3" type="audio/mpeg" length="12345678" />
+      <guid>https://exemplo.com/audio.mp3</guid>
+      <pubDate>Mon, 04 Aug 2025 12:00:00 GMT</pubDate>
+      <itunes:duration>12:34</itunes:duration>
+    </item>
+
+  </channel>
+</rss>
